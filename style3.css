@@ -75,6 +75,7 @@ html,  body {
       }
       span {
         font: italic;
+	style="text-align: center;"
       }
       button, input[type="button"] {
         background-color: #000000;
